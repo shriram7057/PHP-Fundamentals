@@ -1,0 +1,1 @@
+<?php $a=['name'=>'Ram','age'=>20]; echo $a['name']; ?>

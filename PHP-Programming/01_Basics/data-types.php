@@ -1,0 +1,1 @@
+<?php $a=10; $b=10.5; $c='PHP'; var_dump($a,$b,$c); ?>

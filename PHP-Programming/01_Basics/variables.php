@@ -1,0 +1,1 @@
+<?php $name='Shriram'; $age=22; echo $name.' '.$age; ?>

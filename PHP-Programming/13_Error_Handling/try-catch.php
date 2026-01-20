@@ -1,0 +1,1 @@
+<?php try{ throw new Exception('Error'); } catch(Exception $e){ echo $e->getMessage(); } ?>

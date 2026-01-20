@@ -1,0 +1,1 @@
+<?php class A{function show(){echo 'A';}} class B extends A{} (new B())->show(); ?>

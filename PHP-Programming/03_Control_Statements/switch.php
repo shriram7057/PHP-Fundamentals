@@ -1,0 +1,1 @@
+<?php $day=2; switch($day){case 1:echo 'Mon';break; case 2:echo 'Tue';break;} ?>

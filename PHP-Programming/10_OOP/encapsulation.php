@@ -1,0 +1,1 @@
+<?php class Bank{private $bal=0; function dep($x){$this->bal+=$x;} function show(){echo $this->bal;}} ?>

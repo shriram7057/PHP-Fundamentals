@@ -1,0 +1,1 @@
+<?php class A{public $x=10;} $o=new A(); echo $o->x; ?>
